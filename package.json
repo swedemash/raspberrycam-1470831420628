@@ -20,6 +20,7 @@
         "node-red-contrib-objectstore":" 0.0.27"
     },
     "engines": {
-        "node": "4.5.x"
+        "node": "4.5.x",
+        "npm": "3.10.8"
     }
 }
