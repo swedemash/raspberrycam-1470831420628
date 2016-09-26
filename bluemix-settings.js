@@ -16,7 +16,9 @@
 
 var path = require("path");
 var when = require("when");
-var request = require("request");
+functionGlobalContext: {
+    requestModule:require('request')
+}
 
 var cfenv = require("cfenv");
 var appEnv = cfenv.getAppEnv();
