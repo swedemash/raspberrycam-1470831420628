@@ -20,7 +20,8 @@
         "node-red-contrib-bluemix-hdfs":"0.x",
         "node-red-nodes-cf-sqldb-dashdb":"0.x",
         "node-red-contrib-objectstore":" 0.0.27",
-        "node-red-contrib-ui_j":"1.x.x"
+        "node-red-contrib-ui_j":"1.x.x",
+        "node-red-contrib-play-audio":"2.x"
     },
     "engines": {
         "node": "4.5.x",
